@@ -52,3 +52,5 @@ git remote add origin https://github.com/lrpfeliciano/aulagitbotafogo.git
 	
 git push -u origin master
 
+git clone url
+
