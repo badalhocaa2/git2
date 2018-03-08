@@ -1,5 +1,39 @@
-Estamos trabalhando
-
-
-
-daew bixão
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<tittle>Compartilhamento</tittle>
+		<style>
+				fieldset{margin: 60px 250px 250px 120px; width:350px;}
+		</style>
+		
+	</head>
+	
+	<body>
+		<fieldset>
+			<form>
+				<table>
+					<thead>
+						<tr>
+							<th>Nome</th>
+							<th>Preço</th>
+						</tr>
+						
+					<tbody>
+						<tr>
+							<th>Memória 515</th>
+							<th>R$200,00</th>
+						</tr>
+						<tr>
+							<th>Pendrive</th>
+							<th>R$40,00</th>
+						</tr>
+						<tr>
+							<th>Iphone</th>
+							<th>R$3.000,00</th>
+						</tr>
+					</tbody>
+				</table>
+			</form>
+		</fieldset>
+	</body>
+</html>
